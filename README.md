@@ -1,7 +1,7 @@
 # WRF-rLake
 Code for the WRF-rLake model and data necessary for running it.
 
-A quick glimpse of the repository:\
+A quick glimpse at the repository:\
 -> WRF-rLake.f90 is the source code of the WRF-rLake model\
 -> run.py is the main code the run WRF-rLake under python\
 -> data contains several txt documents for initialization, foring the model, and for evaluation.
